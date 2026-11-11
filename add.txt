@@ -1,5 +1,4 @@
-enter your name
-enter your age 
+
 git lab
 prasad 
 mycem
